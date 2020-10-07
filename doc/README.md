@@ -16,6 +16,6 @@ This folder contains the pdf versions of the slides
 | |[MATLAB high level I/O functions - 16:47](https://kuleuven.mediaspace.kaltura.com/media/202009-Matlab-IO-highLevel-programming_m.mp4/1_3qb21dlw) | [demo - 19:24](https://kuleuven.mediaspace.kaltura.com/media/io_highlevel_programming.mp4/1_0du3eqip) |
 |part 6: MATLAB Utilities |[Desktop Utilities - 17:11](https://kuleuven.mediaspace.kaltura.com/media/202009-Matlab-Utilities_m/1_jyol3gul) | [demo - 19:50](https://kuleuven.mediaspace.kaltura.com/media/matlab_utilities.mp4/1_pvgroxp4) |
 |part 7: MATLAB Performance |[Some performance tips - 12:28](https://kuleuven.mediaspace.kaltura.com/media/202009-Matlab-Performance_m/1_245t9m3u) | [demo - 07:18](https://kuleuven.mediaspace.kaltura.com/media/matlab_performance_tips.mp4/1_ogptrlfu) |
-|part 8: Graphics |[MATLAB Quality Graphics - 18:25](https://kuleuven.mediaspace.kaltura.com/media/202009-Matlab-QualityPlots_m/1_z1v2nqex) | [demo - 00:00]() |
+|part 8: Graphics |[MATLAB Quality Graphics - 18:25](https://kuleuven.mediaspace.kaltura.com/media/202009-Matlab-QualityPlots_m/1_z1v2nqex) | |
 | |[MATLAB 2D plotting functions - 14:27](https://kuleuven.mediaspace.kaltura.com/media/202009-Matlab-Visualization-2D_m/1_r9tde9ut) | |
 | |[MATLAB 3D plotting functions - 10:49](https://kuleuven.mediaspace.kaltura.com/media/202009-Matlab-Visualization-3D_m.mp4/1_0jql38gj) | |
