@@ -26,7 +26,7 @@ Feel comfortable in the MATLAB Programming environment.
 
 ## Material
 
-Check the *doc* folder, this folder contains:
+Check the *docs* folder, this folder contains:
 - narrative powerpoints
 - screencasts of MATLAB Desktop focusing on different aspects covered in the powerpoints
 - PDF of the slides
