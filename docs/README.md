@@ -34,8 +34,8 @@ Feel comfortable in the MATLAB Programming environment.
 
 | Slides (pdf) | Recorded PowerPoint (*) | Screencast Demo MATLAB |
 |------------ | -------------------- | -----------------------|
-| [Matlab programming key concepts](https://github.com/franklbvp/matlab_programming/blob/main/docs/Matlab-ProgrammingKeyConcepts.pdf)|  | |
-| [MATLAB Reproducibility](https://github.com/franklbvp/matlab_programming/blob/main/docs/Matlab-Reproducibility.pdf) | |  |
+| [Programming key concepts](https://github.com/franklbvp/matlab_programming/blob/main/docs/Matlab-ProgrammingKeyConcepts.pdf)|  | |
+| [Reproducibility, etc.](https://github.com/franklbvp/matlab_programming/blob/main/docs/Matlab-Reproducibility.pdf) | |  |
 |[Editor/debugger](https://github.com/franklbvp/matlab_programming/blob/main/docs/Matlab-EditDebug_m.pdf) | [Editor Debug feature](https://kuleuven.mediaspace.kaltura.com/media/Matlab-EditDebug_m/1_eb3pr0tu)| [demo - 16:27](https://kuleuven.mediaspace.kaltura.com/media/matlab_edit_debug.mp4/1_wxi5wskb) |
 | [basic data types](https://github.com/franklbvp/matlab_programming/blob/main/docs/Matlab-FundamentalDataTypes-basic_m.pdf)|[MATLAB Basic Data Types](https://kuleuven.mediaspace.kaltura.com/media/Matlab-FundamentalDataTypes-basic_m/1_bznyb16y) | [demo - 16:01](https://kuleuven.mediaspace.kaltura.com/media/matlab_datatypes_basics.mp4/1_ciloqm8j) |
 | [flow control commands](https://github.com/franklbvp/matlab_programming/blob/main/docs/Matlab-FlowControl_m.pdf) | [MATLAB flow control](https://kuleuven.mediaspace.kaltura.com/media/Matlab-FlowControl_m/1_xm3vrp4b) | [demo - 28:37](https://kuleuven.mediaspace.kaltura.com/media/Matlab_flowcontrol.mp4/1_eeh432o9)  |
